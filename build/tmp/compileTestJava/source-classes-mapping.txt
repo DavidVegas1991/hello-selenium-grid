@@ -1,0 +1,4 @@
+com/example/junit_grid_seleniumgrid/MainPageTest.java
+ com.example.junit_grid_seleniumgrid.MainPageTest
+com/example/junit_grid_seleniumgrid/gridTest.java
+ com.example.junit_grid_seleniumgrid.gridTest

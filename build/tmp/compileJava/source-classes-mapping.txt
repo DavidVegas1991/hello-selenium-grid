@@ -1,0 +1,2 @@
+com/example/junit_grid_seleniumgrid/MainPage.java
+ com.example.junit_grid_seleniumgrid.MainPage
